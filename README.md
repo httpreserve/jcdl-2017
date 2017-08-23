@@ -1,2 +1,4 @@
-# jcdl-2017
-Resources for JCDL 2017
+# Resources and Final Poster for WADL 2017
+
+Presented in June 2017. 
+
